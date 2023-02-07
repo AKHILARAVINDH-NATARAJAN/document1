@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>BIO DATA</title>
+</head>
+<body bgcolor="FFFBEB">
+<h1><u><center>BIO DATA</u></center></h1>
+<hr />
+<img src="" align="right" height=50 width=50 1px>
+<h3>Name: AKHIL ARAVINDH P N</h3>
+<h3>Present Address: 461 SG COMPLEX KOVAI MAIN RODE NAMBIYUR-638458</h3>
+<h3>Permanent Address: 461 SG COMPLEX KOVAI MAIN RODE NAMBIYUR-638458</h3>
+<h3>Date of Birth: 16/06/2005</h3>
+<h3>Nationality: INDIAN</h3>
+<h3>Place of Birth: ERODE</h3>
+<h3>Name of FATHER: NATARAJAN P</h3>
+<h3>Name of Mother: MALATHI G</h3>
+<h3>Mother Tongue: TAMIL</h3>
+<h3>Mobile Number: 9942574314</h3>
+
+<hr />
+<h2><u>EDUCATIONAL BACKGROUND:</u></h2>
+<h3>Elementary: VIJAY VIKAS INTERNATIONAL SCHOOL</h3>
+<h3>High School: VIJAY VIKAS INTERNATIONAL SCHOOL</h3>
+<h3>College: Kongu Engineering College</h3>
+</body>
+</html>
